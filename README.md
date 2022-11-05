@@ -109,7 +109,8 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER 
 
 ## UPCOUNTER:
-![Screenshot (171)](https://user-images.githubusercontent.com/94508142/200120933-db6abe20-9552-4545-80ec-c9ce0a5f5f8f.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/94508142/200120980-09994eec-b7cb-41c1-93a5-3c4a9a71b798.png)
+
 
 
 ## DOWN COUNTER:
@@ -136,7 +137,8 @@ endmodule
 
 ### TRUTH TABLE 
 ## UPCOUNTER:
-![Screenshot (170)](https://user-images.githubusercontent.com/94508142/200120787-3c440126-6cea-4b38-8024-1c03c9d8ff97.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/94508142/200121000-6fbae920-50e1-4442-bf43-a3c7f156ef6e.png)
+
 
 ## DOWN COUNTER:
 ![Screenshot (172)](https://user-images.githubusercontent.com/94508142/200120813-c6542e16-c34e-40fb-ae60-c417bc0bd340.png)
